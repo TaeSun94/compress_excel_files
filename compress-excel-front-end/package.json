@@ -1,5 +1,5 @@
 {
-  "name": "compress-exel-front-end",
+  "name": "compress-excel-front-end",
   "private": true,
   "scripts": {
     "dev": "next dev",
